@@ -1,7 +1,7 @@
 ![hellcatspangled](https://user-images.githubusercontent.com/114273483/218565560-628bd0c8-91db-4caa-9829-6c1287d3b0de.png)
 
 ## __tics__
-
+**En mi familia se ha quedado el windows cargando y no a avanzado la computadora. Rara vez pasa esto, pero atrasa todo el procedimiento de estudio.**
 <!--
 **hellcatspangled/hellcatspangled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

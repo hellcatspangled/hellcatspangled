@@ -1,4 +1,4 @@
-(![hellcatspangled](https://user-images.githubusercontent.com/114273483/218565560-628bd0c8-91db-4caa-9829-6c1287d3b0de.png)
+![hellcatspangled](https://user-images.githubusercontent.com/114273483/218565560-628bd0c8-91db-4caa-9829-6c1287d3b0de.png)
 
 ## Hi there 👋
 

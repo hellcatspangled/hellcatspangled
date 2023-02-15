@@ -2,7 +2,7 @@
 
 ## __tics__
 **En mi familia se ha quedado el windows cargando y no a avanzado la computadora. Rara vez pasa esto, pero atrasa todo el procedimiento de estudio.**
-<!--
+#Horario
 **hellcatspangled/hellcatspangled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

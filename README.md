@@ -3,11 +3,15 @@
 ## __tics__
 **En mi familia se ha quedado el windows cargando y no a avanzado la computadora. Rara vez pasa esto, pero atrasa todo el procedimiento de estudio.**
 ## Horario
-[tableConvert.com_ccmy7s.md](https://github.com/hellcatspangled/hellcatspangled/files/10747316/tableConvert.com_ccmy7s.md)
+
 
 **hellcatspangled/hellcatspangled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
